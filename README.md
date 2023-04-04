@@ -1,3 +1,18 @@
+这是一个 Next.js 13 应用的空白项目。它从 [Next.js 13 空白项目](https://vercel.com/templates/next.js/nextjs-boilerplate)模块而来，去掉原来的 CSS。
+
+增加如下两个组件：
+
+- Chakra UI, https://chakra-ui.com/getting-started
+- React-icons, https://react-icons.github.io/react-icons
+
+页面的调整，在 `Components/` 增加：
+
+- layout.tsx
+- Header.tsx
+- Footer.tsx
+
+---
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
