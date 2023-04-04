@@ -31,19 +31,19 @@ export default function Home() {
 
             <Card maxW='sm' key={0}  _hover={{ boxShadow: 'lg', transform: 'scale(1.01)' }}>
               <CardBody userSelect='none'>
-                <Image src='card0.avif' alt='card0' />
+                <Image src='/card0.avif' alt='card0' />
               </CardBody>
             </Card>
 
             <Card maxW='sm' key={1}  _hover={{ boxShadow: 'lg', transform: 'scale(1.01)' }}>
             <CardBody userSelect='none'>
-              <Image src='card1.avif'  alt='card1' />
+              <Image src='/card1.avif'  alt='card1' />
             </CardBody>
           </Card>          
 
           <Card maxW='sm' key={2}  _hover={{ boxShadow: 'lg', transform: 'scale(1.01)' }}>
             <CardBody userSelect='none'>
-              <Image src='card2.avif'  alt='card2'/>
+              <Image src='/card2.avif'  alt='card2'/>
             </CardBody>
           </Card>      
             
