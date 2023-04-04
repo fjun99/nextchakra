@@ -11,6 +11,12 @@
 - Header.tsx
 - Footer.tsx
 
+##  Usage
+
+```
+yarn create next-app --typescript  --example https://github.com/fjun99/nextchakra  mynext
+```
+
 ---
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
